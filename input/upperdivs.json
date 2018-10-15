@@ -1,0 +1,22 @@
+[
+    {
+        "name": "CS 131",
+        "prerequisites": ["CS 35L"]
+    },
+    {
+        "name": "CS 35L",
+        "prerequisites": []
+    },
+    {
+        "name": "CS 181",
+        "prerequisites": ["CS 180"]
+    },
+    {
+        "name": "CS 180",
+        "prerequisites": ["CS 35L", "CS 131"]
+    },
+    {
+        "name": "CS 161",
+        "prerequisites": ["CS 180"]
+    }
+]

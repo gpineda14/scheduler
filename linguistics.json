@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ling 120B",
+        "prerequisites": ["Ling 20"]
+    },
+    {
+        "name": "Ling 120A",
+        "prerequisites": ["Ling 102"]
+    },
+    {
+        "name": "Ling 102",
+        "prerequisites": ["Ling 20"]
+    },
+    {
+        "name": "Ling 20",
+        "prerequisites": []
+    },
+    {
+        "name": "Ling 165A",
+        "prerequisites": ["Ling 120A"]
+    },
+    {
+        "name": "Ling 185A",
+        "prerequisites": ["Ling 120B"]
+    },
+    {
+        "name": "Ling 120C",
+        "prerequisites": ["Ling 120B"]
+    }
+]
